@@ -1,2 +1,4 @@
 print('Oluwole')
-print("Firstname"
+print("Firstname")
+print("Owolabi")
+print("Lastname")
