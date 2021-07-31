@@ -1,0 +1,7 @@
+---
+- name: this is a test
+  hosts: server2
+  task:
+  - name: install http server
+    yum: httpd
+       
